@@ -1,0 +1,1 @@
+# io-mcp-server-capabilties
